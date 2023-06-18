@@ -2777,6 +2777,13 @@ figure.vimeo a img, figure.youtube a img {
 		letter-spacing: 0;
 		font-size: 14px;
 	}
+	.hide-on-mobile {
+        display: none;
+    }
+	.case-study-images li .hero-number,
+	.case-study-images li .hero-number-fixed{
+		bottom: 30px;
+	}
 }
 
 
